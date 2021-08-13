@@ -134,6 +134,7 @@ button {
     height:150px;
     width: 100%;
     border-bottom: solid 8px white;
+    background-color: cyan;
 }
 
 /* Skills Container */
